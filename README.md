@@ -16,5 +16,5 @@ I'm into networking, local AI, and web development. Right now I'm mostly learnin
 
 ## Contact
 - Email: [ammaralghouti@gmail.com](mailto:ammaralghouti@gmail.com)
-- LinkedIn: [Ammar](https://www.linkedin.com/in/ammar-alghouti/)
+- LinkedIn: [Ammar AlGhouti](https://www.linkedin.com/in/ammar-alghouti/)
 - Location: Jordan
