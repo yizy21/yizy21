@@ -12,7 +12,7 @@ I'm into networking, local AI, and web development. Right now I'm mostly learnin
 - **Web:** HTML, CSS, WordPress, Python scripts for generating sites, Arabic (RTL) and English layouts
 - **AI:** LM Studio, Qwen models, ComfyUI with BiRefNet and IC-Light
 - **Networking and security:** Kali Linux, Wireshark, nmap, aircrack-ng, a TP-Link managed switch
-- **Hardware:** AMD Ryzen and Radeon
+- **Home network:** TP-Link router and managed switch, static IPs, DHCP and NAT setups
 
 ## Contact
 - Email: [ammaralghouti@gmail.com](mailto:ammaralghouti@gmail.com)
