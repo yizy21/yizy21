@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Yizy
 
-<!--
-**yizy21/yizy21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm into networking, local AI, and web development. Right now I'm mostly learning networking and security, and building small projects along the way.
 
-Here are some ideas to get you started:
+## What I'm working on
+- [Home Network Lab](https://github.com/yizy21/Home-Network-Lab): labs I run on my own gear, like subnetting, port mirroring, and packet captures
+- A Windows security home lab, plus Security+ prep
+- An AI product photo pipeline in ComfyUI
+- Freelance web and e-commerce work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use
+- **Web:** HTML, CSS, WordPress, Python scripts for generating sites, Arabic (RTL) and English layouts
+- **AI:** LM Studio, Qwen models, ComfyUI with BiRefNet and IC-Light
+- **Networking and security:** Kali Linux, Wireshark, nmap, aircrack-ng, a TP-Link managed switch
+- **Hardware:** AMD Ryzen and Radeon
+
+## Contact
+- Email: [ammaralghouti@gmail.com](mailto:ammaralghouti@gmail.com)
+- LinkedIn: [ammar-alghouti](https://www.linkedin.com/in/ammar-alghouti/)
+- Location: Jordan
