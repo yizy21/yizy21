@@ -1,4 +1,4 @@
-## Hello! I'm Yizy
+## Hello! I'm Ammar
 
 I'm into networking, local AI, and web development. Right now I'm mostly learning networking and security, and building small projects along the way.
 
